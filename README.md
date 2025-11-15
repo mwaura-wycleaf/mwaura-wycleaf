@@ -21,7 +21,7 @@ I enjoy learning new technologies, solving problems, and building projects that 
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/wycliff-mwaura-8514b4396)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/wycliff-mwaura)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wycliff@gmail.com)
 
 ✨ “Building, learning, and growing one project at a time.”
