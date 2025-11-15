@@ -1,31 +1,22 @@
 # Hi there 👋, I'm Wycliff Mwaura
 
-![Profile Banner](https://img.shields.io/badge/Full-Stack%20Developer-blue?style=for-the-badge&logo=appveyor)
-
 I'm a *Full-Stack Developer in training, passionate about **web development* and building *interactive projects* with HTML, CSS, and JavaScript.  
 
 ---
 
 ## 🛠️ Skills
-
-*Frontend:*  
-HTML ▮▮▮▮▮ 90%  
-CSS ▮▮▮▮▯ 80%  
-JavaScript ▮▮▮▮▯ 75%  
-
-*Backend (Learning):*  
-Node.js ▮▮▯▯▯ 30%  
-MySQL ▮▮▯▯▯ 30%  
-
-*Tools:*  
-Git & GitHub ▮▮▮▮▯ 70%  
-VSCode ▮▮▮▮▯ 80%  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## 📂 Projects
-- *VueJobs Clone (Work-in-Progress)* – Practicing layout & JS interactivity  
-- *Netflix Clone* – Frontend UI practice  
-- *Google Clone* – Simple homepage replica  
+## 🌱 Currently Learning
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-> Projects help me improve *responsive design, DOM manipulation, and building str…
+---
+
+✨ “Building, learning, and growing one project at a time.”
