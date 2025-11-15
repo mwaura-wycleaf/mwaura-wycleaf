@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Wycliff Mwaura
 
-<!--
-**mwaura-wycleaf/mwaura-wycleaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a *Full-Stack Developer in training, passionate about **web development* and building *interactive projects* with HTML, CSS, and JavaScript.  
+ 🛠️ Skills
+- *Frontend:* HTML, CSS, JavaScript  
+- *Backend (learning):* Node.js, MySQL  
+- *Tools:* Git, GitHub, VSCode  
 
-Here are some ideas to get you started:
+ 📂 Projects
+- *VueJobs Clone (Work-in-Progress):* Practicing layout and JS interactivity  
+- *Netflix Clone:* Frontend UI practice  
+- *Google Clone:* Simple homepage replica  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ “Building, learning, and growing one project at a time.”
