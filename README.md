@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Wycliff Mwaura
+# Hi there 👋, I'm Wycliff Ng'ang'a Mwaura
 
 I'm a *Full-Stack Developer in training, passionate about **web development* and building *interactive projects* with HTML, CSS, and JavaScript.
 I enjoy learning new technologies, solving problems, and building projects that help me grow as a developer.
