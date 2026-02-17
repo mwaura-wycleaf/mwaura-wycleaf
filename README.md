@@ -15,7 +15,7 @@ Every project is a step forward.
 Every challenge, a quiet refinement.
 I am not just learning to code —
 I am learning to think, to design, to solve,
-and to build with purpose.
+and to build with goal-driven purpose.
 
 ---
 
