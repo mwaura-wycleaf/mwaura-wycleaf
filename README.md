@@ -11,7 +11,7 @@ CSS as expression,
 and JavaScript as motion,
 I shape the web into something felt, not just seen.
 
-Every project is a step forward.
+Every project is a leap forward.
 Every challenge, a quiet refinement.
 I am not just learning to code —
 I am learning to think, to design, to solve,
