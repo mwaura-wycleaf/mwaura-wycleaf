@@ -29,6 +29,7 @@ and to build with goal-driven purpose.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-Wireframing-cc0000?logo=balsamiq&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ---
 
 ## 🌱 Currently Learning
