@@ -6,7 +6,7 @@ I build in the space where logic meets creativity —
 where structure becomes experience,
 and ideas become living systems.
 
-With HTML as foundation,
+With HTML as the foundation,
 CSS as expression,
 and JavaScript as motion,
 I shape the web into something felt, not just seen.
