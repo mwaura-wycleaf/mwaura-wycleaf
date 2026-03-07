@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Wycliff Ng'ang'a Mwaura
 
-Full-Stack Developer in training.
+A Full-Stack Developer in training.
 
 I build in the space where logic meets creativity —
 where structure becomes experience,
