@@ -2,8 +2,8 @@
 
 A Full-Stack Developer in training.
 
-I build in the space where logic meets creativity —
-where structure becomes experience,
+I build in the space where logic meets creativity,
+where structure becomes experience
 and ideas become living systems.
 
 With HTML as the foundation,
