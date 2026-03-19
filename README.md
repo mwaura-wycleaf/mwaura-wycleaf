@@ -44,4 +44,4 @@ and to build with goal-driven purpose.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wycliff-mwaura-8514b4396/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wycliff.14396@gmail.com)
 
-✨ “Building, learning, and growing one project at a time.”
+“Building, learning, and growing one project at a time.”
