@@ -12,7 +12,7 @@ Currently studying Software Engineering principles and building projects with mo
 
 🚀 About Me
 
-- 🎓 Software Engineering Student
+- 🎓 Computer Science Student
 - 💻 Passionate about Web Development
 - 🌱 Currently learning React, Node.js, PHP, and MySQL
 - 🔨 Building projects to strengthen full-stack development skills
