@@ -54,7 +54,7 @@ Current Focus
 - Building responsive and interactive web applications
 - Strengthening JavaScript fundamentals
 - Learning backend development with PHP and Node.js
-- Database design and management with MySQL
+- Database design and management no with MySQL
 
 ---
 
@@ -69,7 +69,6 @@ Current Focus
 ---
 
 📬 Connect With Me
-
 ""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/wycliff-mwaura-8514b4396/)
 
 ""Email" (https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)" (mailto:wycliff.14396@gmail.com)
