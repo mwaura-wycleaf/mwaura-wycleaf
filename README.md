@@ -2,7 +2,7 @@ Hey there 👋, I'm Wycliff Ng'ang'a Mwaura
 
 Full-Stack Developer in Training
 
-I enjoy turning ideas into practical, user-focused web applications.
+I enjoy turning ideas into practical, user-focused web apps.
 
 Currently studying Software Engineering principles and building projects with modern web technologies while continuously improving my problem-solving, design, and development skills.
 
