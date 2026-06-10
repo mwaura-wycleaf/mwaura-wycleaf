@@ -25,8 +25,7 @@ Current Focus
 
 - Building responsive and interactive web applications
 - Strengthening JavaScript fundamentals
-- Learning backend development with PHP and Node.js
-- Database design and management no with MySQL
+
 
 ---
 
