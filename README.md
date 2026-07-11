@@ -1,4 +1,4 @@
-Hey there 👋, I'm Wycliff Ng'ang'a Mwaura
+Helloo there 👋, I'm Wycliff Ng'ang'a Mwaura
 
 Full-Stack Developer in Training
 
