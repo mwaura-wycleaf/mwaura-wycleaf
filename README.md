@@ -10,7 +10,7 @@ Currently studying Software Engineering principles and building projects with mo
 
 ---
 
-🚀 About Me
+ About Me
 
 - 🎓 Computer Science Student
 - 💻 Passionate about Web Development
