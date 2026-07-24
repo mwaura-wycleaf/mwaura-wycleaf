@@ -1,6 +1,6 @@
 Helloo there 👋, I'm Wycliff Ng'ang'a Mwaura
 
-Full-Stack Developer in Training
+An aspiring Full-stack developer
 
 I enjoy turning ideas into practical, user-focused web apps.
 
