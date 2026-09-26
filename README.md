@@ -20,7 +20,7 @@ Currently studying Software Engineering principles and building projects with mo
 
 ---
 
-🌱 
+
 Current Focus
 
 - Building responsive and interactive web applications
@@ -29,7 +29,7 @@ Current Focus
 
 ---
 
-🎯 2026 Goals
+2026 Goals
 
 - Build and deploy full-stack projects
 - Contribute to open-source projects
@@ -39,6 +39,6 @@ Current Focus
 
 ---
 
-💡 Motto
+Motto
 
 Building, learning, and growing one project at a time.
