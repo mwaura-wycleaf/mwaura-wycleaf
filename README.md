@@ -31,8 +31,6 @@ Current Focus
 
 2026 Goals
 
-- Build and deploy full-stack projects
-- Contribute to open-source projects
 - Master React and modern JavaScript
 - Gain professional software engineering experience
 - Create solutions that solve real-world problems
