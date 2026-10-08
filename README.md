@@ -14,7 +14,7 @@ Currently studying Software Engineering principles and building projects with mo
 
 - Computer Science Student
 - Passionate about Web Development
-- Currently learning React, Node.js
+- Currently learning Node.js
 - Building projects to strengthen full-stack development skills
 - Constantly learning and improving one step at a time
 
