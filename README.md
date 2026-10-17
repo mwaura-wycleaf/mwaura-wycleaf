@@ -16,7 +16,6 @@ Currently studying Software Engineering principles and building projects with mo
 - Passionate about Web Development
 - Currently learning Node.js
 - Building projects to strengthen full-stack development skills
-- Constantly learning and improving one step at a time
 
 ---
 
