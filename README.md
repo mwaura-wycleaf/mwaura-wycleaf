@@ -31,8 +31,6 @@ Current Focus
 2026 Goals
 
 - Master React and modern JavaScript
-- Gain professional software engineering experience
-
 ---
 
 Motto
