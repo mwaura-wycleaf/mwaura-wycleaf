@@ -27,13 +27,14 @@ Building web applications, solving problems, and exploring software engineering.
 - Data Structures & Algorithms
 - Software Architecture & Testing
 
-### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mwaura-wycleaf&show_icons=true&theme=tokyonight&hide_border=true" />
+### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwaura-wycleaf&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mwaura-wycleaf&show_icons=true&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&bg_color=0B1120&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mwaura-wycleaf&layout=compact&title_color=38BDF8&text_color=C9D1D9&bg_color=0B1120&hide_border=true" width="48%" />
+</p>
 
----
 
 <p align="center">
 <i>Always building. Always learning. Always improving.</i>
